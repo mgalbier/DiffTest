@@ -1,9 +1,8 @@
 DiffTest Project {df21708c-d21e-4576-9eb0-bbfc7540473a} {00000000-0000-0000-0000-000000000000}
 	annotations StatementItemList {eb12f98b-7c58-4ee7-8417-ff322b46f09b} {df21708c-d21e-4576-9eb0-bbfc7540473a}
 	classes TypedListOfClass {47a49057-cdb4-440a-bf1c-b53213e15588} {df21708c-d21e-4576-9eb0-bbfc7540473a}
-		0 persistencenewunit {13048297-9eee-4e72-9142-68285a4444cd} {47a49057-cdb4-440a-bf1c-b53213e15588}. S_A {13048297-9eee-4e72-9142-68285a4444cd}
-		1 persistencenewunit {e4b8cece-7e5d-4e90-b3bb-4e85b42a864e} {47a49057-cdb4-440a-bf1c-b53213e15588}. S_B {e4b8cece-7e5d-4e90-b3bb-4e85b42a864e}
-		2 persistencenewunit {9881b568-e022-46e6-ba13-66c376a41b55} {47a49057-cdb4-440a-bf1c-b53213e15588}. S_C {9881b568-e022-46e6-ba13-66c376a41b55}
+		0 persistencenewunit {e4b8cece-7e5d-4e90-b3bb-4e85b42a864e} {47a49057-cdb4-440a-bf1c-b53213e15588}. S_B {e4b8cece-7e5d-4e90-b3bb-4e85b42a864e}
+		1 persistencenewunit {9881b568-e022-46e6-ba13-66c376a41b55} {47a49057-cdb4-440a-bf1c-b53213e15588}. S_C {9881b568-e022-46e6-ba13-66c376a41b55}
 	fields TypedListOfField {641748e3-097d-4561-8893-01ef453620a8} {df21708c-d21e-4576-9eb0-bbfc7540473a}
 	libraries TypedListOfUsedLibrary {1357617a-2d3c-4852-bdd0-84abad5cd831} {df21708c-d21e-4576-9eb0-bbfc7540473a}
 	metaCalls TypedListOfExpression {c0efafcd-1724-42a9-8a27-f8ab1ed9f046} {df21708c-d21e-4576-9eb0-bbfc7540473a}
