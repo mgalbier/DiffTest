@@ -8,7 +8,7 @@
 	metaCalls TypedListOfExpression {c96c04b5-4b95-4d13-8dd8-85c52c32c3e0} {0a9a328e-1b08-43ff-b476-361680656706}
 	modifiers Modifier {e6e25fe1-3541-478e-8a58-e347395b9117} {0a9a328e-1b08-43ff-b476-361680656706}. I_0
 	mthKind Integer {057422dc-bbb6-46b7-a370-b9c6e4ac1ed5} {0a9a328e-1b08-43ff-b476-361680656706}. I_0
-	name NameText {b9f63222-9b66-4eb2-8aac-fdf592d49f85} {0a9a328e-1b08-43ff-b476-361680656706}. S_b
+	name NameText {b9f63222-9b66-4eb2-8aac-fdf592d49f85} {0a9a328e-1b08-43ff-b476-361680656706}. S_b_old
 	results TypedListOfFormalResult {dba7baf0-5233-44be-847c-6ebccf8caa7e} {0a9a328e-1b08-43ff-b476-361680656706}
 	subDeclarations TypedListOfDeclaration {959643a6-484b-4fbd-8b85-072ce3b2446b} {0a9a328e-1b08-43ff-b476-361680656706}
 	throws TypedListOfExpression {b34132e7-50ed-440a-a19a-00e6c086b5b4} {0a9a328e-1b08-43ff-b476-361680656706}
