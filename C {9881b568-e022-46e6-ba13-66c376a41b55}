@@ -10,7 +10,8 @@
 	friends TypedListOfDeclaration {21537038-a7ed-4cee-bdaa-b15f84d11d07} {9881b568-e022-46e6-ba13-66c376a41b55}
 	metaCalls TypedListOfExpression {a4e59803-57d9-4010-9d3d-1b9202979725} {9881b568-e022-46e6-ba13-66c376a41b55}
 	methods TypedListOfMethod {0c7ffc0c-6366-4a44-ab2d-5812bb81dc6a} {9881b568-e022-46e6-ba13-66c376a41b55}
-		0 persistencenewunit {2b6ee23e-de1d-43a8-a42f-ec6d1c82db7d} {0c7ffc0c-6366-4a44-ab2d-5812bb81dc6a}. S_C/c {2b6ee23e-de1d-43a8-a42f-ec6d1c82db7d}
+		0 persistencenewunit {2b6ee23e-de1d-43a8-a42f-ec6d1c82db7d} {0c7ffc0c-6366-4a44-ab2d-5812bb81dc6a}. S_C/c_old {2b6ee23e-de1d-43a8-a42f-ec6d1c82db7d}
+		1 persistencenewunit {99499f04-e492-4800-a35f-1611fff4e541} {0c7ffc0c-6366-4a44-ab2d-5812bb81dc6a}. S_C/c {99499f04-e492-4800-a35f-1611fff4e541}
 	modifiers Modifier {5e7c78c8-94f8-4219-9275-7b5ebff2606f} {9881b568-e022-46e6-ba13-66c376a41b55}. I_0
 	name NameText {0ff5893c-71af-4124-b7f8-7de32c136ff1} {9881b568-e022-46e6-ba13-66c376a41b55}. S_C
 	subDeclarations TypedListOfDeclaration {5a5f363f-e13e-41ac-8b16-beeab2b4b62e} {9881b568-e022-46e6-ba13-66c376a41b55}
