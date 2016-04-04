@@ -1,0 +1,19 @@
+2 Class {921579ed-ef46-4c68-97c7-3999c7bbbc53} {47a49057-cdb4-440a-bf1c-b53213e15588}
+	_ext_Position_x Integer {3a4809d1-9f69-4c6e-9296-12d171e09965} {921579ed-ef46-4c68-97c7-3999c7bbbc53}. I_2
+	_ext_Position_y Integer {11f47977-1348-4fde-8009-fae5d65cf330} {921579ed-ef46-4c68-97c7-3999c7bbbc53}. I_0
+	annotations StatementItemList {4cf17acf-b3b9-4ef3-b444-cd10a36b8f07} {921579ed-ef46-4c68-97c7-3999c7bbbc53}
+	baseClasses TypedListOfExpression {45436a38-4e24-44ef-b353-a669e78d8cc3} {921579ed-ef46-4c68-97c7-3999c7bbbc53}
+	cKind Integer {942e13f1-45c2-4ebf-b581-54c127d17a53} {921579ed-ef46-4c68-97c7-3999c7bbbc53}. I_0
+	classes TypedListOfClass {c1996071-9594-4b1b-affd-8d8ac77c55d5} {921579ed-ef46-4c68-97c7-3999c7bbbc53}
+	enumerators TypedListOfEnumerator {86056064-92e3-4944-a15b-80fbb328ebf8} {921579ed-ef46-4c68-97c7-3999c7bbbc53}
+	fields TypedListOfField {96692f7f-16ba-4feb-b50a-1cbaf3a07382} {921579ed-ef46-4c68-97c7-3999c7bbbc53}
+	friends TypedListOfDeclaration {fa930b65-855f-41d4-bedd-b406c32c0f96} {921579ed-ef46-4c68-97c7-3999c7bbbc53}
+	metaCalls TypedListOfExpression {2f1ed87e-6e73-4c26-b4c1-5202c9b6fa0b} {921579ed-ef46-4c68-97c7-3999c7bbbc53}
+	methods TypedListOfMethod {7896d819-283d-4cb6-a6db-535cd40bcb35} {921579ed-ef46-4c68-97c7-3999c7bbbc53}
+		0 persistencenewunit {7f17a958-65b7-4580-bf19-affa2b863d2c} {7896d819-283d-4cb6-a6db-535cd40bcb35}. S_E/e2 {7f17a958-65b7-4580-bf19-affa2b863d2c}
+		1 persistencenewunit {9c7a1122-6004-4bdc-8af4-e9d349375899} {7896d819-283d-4cb6-a6db-535cd40bcb35}. S_E/e1 {9c7a1122-6004-4bdc-8af4-e9d349375899}
+		2 persistencenewunit {d4770308-4869-446b-87ad-4a4bece0c5b6} {7896d819-283d-4cb6-a6db-535cd40bcb35}. S_E/e3 {d4770308-4869-446b-87ad-4a4bece0c5b6}
+	modifiers Modifier {59b10b4b-775c-4fc1-a542-281f5e57f053} {921579ed-ef46-4c68-97c7-3999c7bbbc53}. I_0
+	name NameText {676a72ea-d113-4c2d-bd93-29a1acfdd98f} {921579ed-ef46-4c68-97c7-3999c7bbbc53}. S_E
+	subDeclarations TypedListOfDeclaration {3cdf12a0-eb15-44ea-96c9-ffd3a6378e95} {921579ed-ef46-4c68-97c7-3999c7bbbc53}
+	typeArguments TypedListOfFormalTypeArgument {7ec3741b-1913-4f47-91a1-67e27f895bc0} {921579ed-ef46-4c68-97c7-3999c7bbbc53}
