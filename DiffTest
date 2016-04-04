@@ -1,7 +1,7 @@
 DiffTest Project {df21708c-d21e-4576-9eb0-bbfc7540473a} {00000000-0000-0000-0000-000000000000}
 	annotations StatementItemList {eb12f98b-7c58-4ee7-8417-ff322b46f09b} {df21708c-d21e-4576-9eb0-bbfc7540473a}
 	classes TypedListOfClass {47a49057-cdb4-440a-bf1c-b53213e15588} {df21708c-d21e-4576-9eb0-bbfc7540473a}
-		0 persistencenewunit {e4b8cece-7e5d-4e90-b3bb-4e85b42a864e} {47a49057-cdb4-440a-bf1c-b53213e15588}. S_B {e4b8cece-7e5d-4e90-b3bb-4e85b42a864e}
+		0 persistencenewunit {e4b8cece-7e5d-4e90-b3bb-4e85b42a864e} {47a49057-cdb4-440a-bf1c-b53213e15588}. S_B_Class {e4b8cece-7e5d-4e90-b3bb-4e85b42a864e}
 		1 persistencenewunit {3c9a21a8-2901-45be-a096-eb9a21815dca} {47a49057-cdb4-440a-bf1c-b53213e15588}. S_D {3c9a21a8-2901-45be-a096-eb9a21815dca}
 		2 persistencenewunit {921579ed-ef46-4c68-97c7-3999c7bbbc53} {47a49057-cdb4-440a-bf1c-b53213e15588}. S_E {921579ed-ef46-4c68-97c7-3999c7bbbc53}
 	fields TypedListOfField {641748e3-097d-4561-8893-01ef453620a8} {df21708c-d21e-4576-9eb0-bbfc7540473a}
