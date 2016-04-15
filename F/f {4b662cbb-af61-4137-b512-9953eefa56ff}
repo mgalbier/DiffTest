@@ -75,18 +75,18 @@
 										val Integer {68a286b0-8e2c-4d7b-9f2d-3f16e926402a} {8267a964-6169-402c-8ff7-89f1432a52b9}. I_0
 						1 StatementItemList {a6bb8ddc-584b-4b22-8008-95438fe20765} {5a1f7e85-9497-496a-9056-bc1a75adff04}
 							0 ExpressionStatement {485ef9c7-9e22-46d6-a28a-821d49e91e4d} {a6bb8ddc-584b-4b22-8008-95438fe20765}
-								expression VariableDeclarationExpression {f6cdec0f-3dff-4126-8ea3-ff4f7115612e} {485ef9c7-9e22-46d6-a28a-821d49e91e4d}
-									decl VariableDeclaration {b3ca1250-835e-4cd1-be9b-88c6f012f1f2} {f6cdec0f-3dff-4126-8ea3-ff4f7115612e}
-										annotations StatementItemList {72dd5568-3c88-428e-9b27-92917fe5d6c1} {b3ca1250-835e-4cd1-be9b-88c6f012f1f2}
-										initKind Integer {5b386d40-f3bb-4933-8618-0beaab5be5b0} {b3ca1250-835e-4cd1-be9b-88c6f012f1f2}. I_0
-										initialValue IntegerLiteral {d5bc3987-9467-4e1b-a2be-45d5a12f808f} {b3ca1250-835e-4cd1-be9b-88c6f012f1f2}
-											value Text {f521a9ce-87c1-4b7d-8bbe-00a97650093e} {d5bc3987-9467-4e1b-a2be-45d5a12f808f}. S_1
-										metaCalls TypedListOfExpression {ee610584-2821-401e-b2ee-8609de4d0f42} {b3ca1250-835e-4cd1-be9b-88c6f012f1f2}
-										modifiers Modifier {014d4d94-8f98-4228-9e29-49b5fa03bb54} {b3ca1250-835e-4cd1-be9b-88c6f012f1f2}. I_0
-										name NameText {af518857-bede-4cbb-9dc7-455f8d0af634} {b3ca1250-835e-4cd1-be9b-88c6f012f1f2}. S_f
-										subDeclarations TypedListOfDeclaration {0941e5f1-8d67-4a20-9533-8bcfef7fe6a8} {b3ca1250-835e-4cd1-be9b-88c6f012f1f2}
-										typeExpression PrimitiveTypeExpression {a1e17b7c-21fe-484e-aab2-0d4807a40856} {b3ca1250-835e-4cd1-be9b-88c6f012f1f2}
-											val Integer {df7b82c6-787c-4d74-afff-a059a31a64aa} {a1e17b7c-21fe-484e-aab2-0d4807a40856}. I_0
+								expression VariableDeclarationExpression {483d5f24-00e3-428b-9e78-b8e8197b39f6} {485ef9c7-9e22-46d6-a28a-821d49e91e4d}
+									decl VariableDeclaration {a71325e9-8ea7-41ef-b1ea-c301725f1e0d} {483d5f24-00e3-428b-9e78-b8e8197b39f6}
+										annotations StatementItemList {fb91040c-7caa-4c3e-8160-6d5cecf7dbbb} {a71325e9-8ea7-41ef-b1ea-c301725f1e0d}
+										initKind Integer {ab833962-f252-4ad3-9153-cc7446bb751b} {a71325e9-8ea7-41ef-b1ea-c301725f1e0d}. I_0
+										initialValue IntegerLiteral {ef31a2f3-9cbf-4a1d-b728-069eec186721} {a71325e9-8ea7-41ef-b1ea-c301725f1e0d}
+											value Text {603f4f73-fa66-49fa-908e-82387ef9e10b} {ef31a2f3-9cbf-4a1d-b728-069eec186721}. S_2
+										metaCalls TypedListOfExpression {2e29dbc4-bae7-4e9e-a205-ba68c10a0fdc} {a71325e9-8ea7-41ef-b1ea-c301725f1e0d}
+										modifiers Modifier {839669f8-19c6-40d4-935b-c8a8a3caf2bc} {a71325e9-8ea7-41ef-b1ea-c301725f1e0d}. I_0
+										name NameText {c4d08ec8-f37f-43d3-ae3f-a4836bc932d6} {a71325e9-8ea7-41ef-b1ea-c301725f1e0d}. S_f
+										subDeclarations TypedListOfDeclaration {d33d2493-f77a-4113-a71f-10f4dcf9b511} {a71325e9-8ea7-41ef-b1ea-c301725f1e0d}
+										typeExpression PrimitiveTypeExpression {bbb9fe09-e549-4448-a0d6-e3884e8c6ae4} {a71325e9-8ea7-41ef-b1ea-c301725f1e0d}
+											val Integer {f4474e49-7488-49d9-af2b-76e9d5007357} {bbb9fe09-e549-4448-a0d6-e3884e8c6ae4}. I_0
 							1 StatementItemList {2305c5c7-d5f2-4274-8c9a-eb90a6018423} {a6bb8ddc-584b-4b22-8008-95438fe20765}
 								0 ExpressionStatement {fa48f311-72d1-4c59-8aa5-896e3d62b54b} {2305c5c7-d5f2-4274-8c9a-eb90a6018423}
 									expression VariableDeclarationExpression {f83b2d00-93d1-4e25-af39-435153093648} {fa48f311-72d1-4c59-8aa5-896e3d62b54b}
