@@ -10,7 +10,7 @@
 	friends TypedListOfDeclaration {1e62cae8-aa03-4f78-8844-c1540d187466} {4b690622-ef84-4506-8bfb-52ed37ae9b79}
 	metaCalls TypedListOfExpression {8bd7007f-5ec4-40d5-951b-44252742fa10} {4b690622-ef84-4506-8bfb-52ed37ae9b79}
 	methods TypedListOfMethod {28aac16f-f61b-4133-ba11-837bc1e398e4} {4b690622-ef84-4506-8bfb-52ed37ae9b79}
-		0 persistencenewunit {d4770308-4869-446b-87ad-4a4bece0c5b6} {28aac16f-f61b-4133-ba11-837bc1e398e4}. S_F/e3 {d4770308-4869-446b-87ad-4a4bece0c5b6}
+		0 persistencenewunit {d4770308-4869-446b-87ad-4a4bece0c5b6} {28aac16f-f61b-4133-ba11-837bc1e398e4}. S_F/e3_new {d4770308-4869-446b-87ad-4a4bece0c5b6}
 	modifiers Modifier {a57e7346-2565-45ba-808f-61b5f37b0a53} {4b690622-ef84-4506-8bfb-52ed37ae9b79}. I_0
 	name NameText {fab264e4-597a-45d4-9160-ed0793f75a7d} {4b690622-ef84-4506-8bfb-52ed37ae9b79}. S_F
 	subDeclarations TypedListOfDeclaration {ad92695b-f761-40d0-ba71-248530cb5720} {4b690622-ef84-4506-8bfb-52ed37ae9b79}
