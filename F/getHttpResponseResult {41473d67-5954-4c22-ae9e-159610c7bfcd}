@@ -345,60 +345,24 @@
 						typeArguments TypedListOfExpression {af52dd3c-830a-4f35-a8e2-9dbfbf216ca3} {794e6345-c15d-4392-b411-87ca72d1d58f}
 		10 ReturnStatement {2e1a94d6-dc53-452e-b207-01f8b03d77de} {d164ba64-bc28-46af-96f7-1483d3e272c5}
 			values TypedListOfExpression {846bb17e-dc6f-4476-9df5-3510e2c52c0d} {2e1a94d6-dc53-452e-b207-01f8b03d77de}
-				0 MethodCallExpression {b4a6e404-c39f-4764-be65-f96e10030b20} {846bb17e-dc6f-4476-9df5-3510e2c52c0d}
-					arguments TypedListOfExpression {8cbad3e0-1a8d-4d87-bb6d-7aedda8cc0c7} {b4a6e404-c39f-4764-be65-f96e10030b20}
-						0 MethodCallExpression {b179eb4a-6c37-4094-8dd1-d6fd64e2087c} {8cbad3e0-1a8d-4d87-bb6d-7aedda8cc0c7}
-							arguments TypedListOfExpression {43a14f1f-b028-4fd6-9bb9-650d458afaea} {b179eb4a-6c37-4094-8dd1-d6fd64e2087c}
-							cKind Integer {ee4d8156-1c48-4d34-b85d-980f4b220da7} {b179eb4a-6c37-4094-8dd1-d6fd64e2087c}. I_0
-							callee ReferenceExpression {46056ba1-d941-4ea8-a0f6-cb088f18eb57} {b179eb4a-6c37-4094-8dd1-d6fd64e2087c}
-								memKind Integer {2d522783-4a6b-4e91-96d3-69ffe9d79a5c} {46056ba1-d941-4ea8-a0f6-cb088f18eb57}. I_0
-								prefix ReferenceExpression {2c84bc18-8708-47db-976c-69d65d98a3b2} {46056ba1-d941-4ea8-a0f6-cb088f18eb57}
-									memKind Integer {a3046257-3113-475d-ad6d-33f8426b7bc7} {2c84bc18-8708-47db-976c-69d65d98a3b2}. I_0
-									ref OOReference {eee0d857-167c-44a6-a122-496c1fc066ad} {2c84bc18-8708-47db-976c-69d65d98a3b2}. S_{98f8c820-f1a9-43ba-8fde-a96cf9c69613}:connection
-									typeArguments TypedListOfExpression {34719689-93e0-44c7-aa7c-96f9921382ba} {2c84bc18-8708-47db-976c-69d65d98a3b2}
-								ref OOReference {4ebe68b2-5a7d-4d9d-9d8e-81fb135e03e1} {46056ba1-d941-4ea8-a0f6-cb088f18eb57}. S_____NULL____:getResponseCode
-								typeArguments TypedListOfExpression {2f30f002-be77-4f78-a922-56391f5a5d80} {46056ba1-d941-4ea8-a0f6-cb088f18eb57}
-						1 ConditionalExpression {067a9bec-c1bf-4622-a291-77f96fd80a38} {8cbad3e0-1a8d-4d87-bb6d-7aedda8cc0c7}
-							condition BinaryOperation {3fed5404-7431-453c-b986-7d93c1236883} {067a9bec-c1bf-4622-a291-77f96fd80a38}
-								left ReferenceExpression {727641e6-484f-414d-b72e-50e5bc0ff1c1} {3fed5404-7431-453c-b986-7d93c1236883}
-									memKind Integer {754e0912-2fc0-4ccd-a3df-3342765c753c} {727641e6-484f-414d-b72e-50e5bc0ff1c1}. I_0
-									ref OOReference {b6817918-23dc-417f-aadb-e8c42d0e8f66} {727641e6-484f-414d-b72e-50e5bc0ff1c1}. S_{1e21387e-c623-4774-ae24-6c198ebb2811}:responseMessage
-									typeArguments TypedListOfExpression {c68f2c06-e162-42b2-86c2-244b6f5d9540} {727641e6-484f-414d-b72e-50e5bc0ff1c1}
-								opr Integer {982bd063-a6a9-487d-a52a-b651e8edc759} {3fed5404-7431-453c-b986-7d93c1236883}. I_13
-								right NullLiteral {9c2ccd63-0b7b-44ae-89ea-9e60c94848e8} {3fed5404-7431-453c-b986-7d93c1236883}
-							falseExpression StringLiteral {2c137c05-1de5-4423-8a59-7ccb56c5ffa3} {067a9bec-c1bf-4622-a291-77f96fd80a38}
-								value Text {f4b9ef34-855b-4f46-a385-3010744078cd} {2c137c05-1de5-4423-8a59-7ccb56c5ffa3}. S_
-							trueExpression ReferenceExpression {e798d15b-ba89-47dc-8e5e-150c1e508f15} {067a9bec-c1bf-4622-a291-77f96fd80a38}
-								memKind Integer {6e9e8209-ec2c-4bdc-9d80-bc8d6a9226dc} {e798d15b-ba89-47dc-8e5e-150c1e508f15}. I_0
-								ref OOReference {0a347429-4dfb-4ca5-a846-98ebef6731be} {e798d15b-ba89-47dc-8e5e-150c1e508f15}. S_{1e21387e-c623-4774-ae24-6c198ebb2811}:responseMessage
-								typeArguments TypedListOfExpression {32596dc7-86d7-450c-97fe-836dd68ce1eb} {e798d15b-ba89-47dc-8e5e-150c1e508f15}
-						2 MethodCallExpression {f660539f-0e54-4e05-abe1-97d30ba39ea3} {8cbad3e0-1a8d-4d87-bb6d-7aedda8cc0c7}
-							arguments TypedListOfExpression {e7ec5397-84ec-4218-b415-f55426a9b3c2} {f660539f-0e54-4e05-abe1-97d30ba39ea3}
-								0 ReferenceExpression {56a6ce34-a45a-46f4-bb89-98cf6ac67db7} {e7ec5397-84ec-4218-b415-f55426a9b3c2}
-									memKind Integer {e01a3480-99b4-4450-b06c-a64d9c13d884} {56a6ce34-a45a-46f4-bb89-98cf6ac67db7}. I_0
-									ref OOReference {d0e3d084-a955-4d6a-97bd-324ae17f6b24} {56a6ce34-a45a-46f4-bb89-98cf6ac67db7}. S_{98f8c820-f1a9-43ba-8fde-a96cf9c69613}:connection
-									typeArguments TypedListOfExpression {8d236976-7539-4626-8ed2-d738ab6e7ad1} {56a6ce34-a45a-46f4-bb89-98cf6ac67db7}
-							cKind Integer {048bc299-2eec-403f-930c-bfebcb1843bf} {f660539f-0e54-4e05-abe1-97d30ba39ea3}. I_0
-							callee ReferenceExpression {03e88ca6-a9bc-467a-b298-980a4021fd95} {f660539f-0e54-4e05-abe1-97d30ba39ea3}
-								memKind Integer {b0e6ac98-3ef7-4686-a461-dbee49c3fbc8} {03e88ca6-a9bc-467a-b298-980a4021fd95}. I_0
-								ref OOReference {dc31a04e-6d41-4e65-9bcc-cc3c2707eda4} {03e88ca6-a9bc-467a-b298-980a4021fd95}. S_____NULL____:getHeader
-								typeArguments TypedListOfExpression {080ac9e2-18b9-494b-b70f-44b0103072ea} {03e88ca6-a9bc-467a-b298-980a4021fd95}
-						3 MethodCallExpression {f5215751-b2f5-49bf-8469-4a5ef9744ac1} {8cbad3e0-1a8d-4d87-bb6d-7aedda8cc0c7}
-							arguments TypedListOfExpression {1855b181-c9bf-4345-a068-9827570b5ee2} {f5215751-b2f5-49bf-8469-4a5ef9744ac1}
-								0 ReferenceExpression {29a1fad6-d3da-4799-9910-2380802c3276} {1855b181-c9bf-4345-a068-9827570b5ee2}
-									memKind Integer {f8cd78fb-7765-4eaa-a299-bd0bb42b8e03} {29a1fad6-d3da-4799-9910-2380802c3276}. I_0
-									ref OOReference {2da1890f-7241-47c2-aa5d-6afff0342e61} {29a1fad6-d3da-4799-9910-2380802c3276}. S_{98f8c820-f1a9-43ba-8fde-a96cf9c69613}:connection
-									typeArguments TypedListOfExpression {778c922e-57b4-41b4-86e7-c8e2807abd0c} {29a1fad6-d3da-4799-9910-2380802c3276}
-							cKind Integer {ac7c7540-4e6b-49b0-b19a-fb24287162ff} {f5215751-b2f5-49bf-8469-4a5ef9744ac1}. I_0
-							callee ReferenceExpression {65208e90-1b26-437a-9a0c-82fba4c08803} {f5215751-b2f5-49bf-8469-4a5ef9744ac1}
-								memKind Integer {4b5c030c-c315-44d0-8146-e21963a888e0} {65208e90-1b26-437a-9a0c-82fba4c08803}. I_0
-								ref OOReference {222e72da-136e-4ef3-8f1a-5e9874758ed1} {65208e90-1b26-437a-9a0c-82fba4c08803}. S_____NULL____:getByteArray
-								typeArguments TypedListOfExpression {fcb3845f-d0bd-47d9-a17f-427960158b43} {65208e90-1b26-437a-9a0c-82fba4c08803}
-					cKind Integer {c4af3e0f-271a-4f4e-a485-47d7901c0020} {b4a6e404-c39f-4764-be65-f96e10030b20}. I_0
-					callee ReferenceExpression {bd16ce51-5b85-4291-9153-0683628a2344} {b4a6e404-c39f-4764-be65-f96e10030b20}
-						memKind Integer {631d7993-bbe3-424f-887a-baa1a7b7748f} {bd16ce51-5b85-4291-9153-0683628a2344}. I_0
-						ref OOReference {e85a838d-2d43-4335-82ab-9d9987419c94} {bd16ce51-5b85-4291-9153-0683628a2344}. S_____NULL____:httpResponse
-						typeArguments TypedListOfExpression {31dae80e-f7f6-44bf-a3f0-7179bdb599c4} {bd16ce51-5b85-4291-9153-0683628a2344}
+				0 MethodCallExpression {d9cd3349-87b4-4145-b7f1-00270becb109} {846bb17e-dc6f-4476-9df5-3510e2c52c0d}
+					arguments TypedListOfExpression {e5dfbd95-aa7f-4651-8415-fd7b4b23ca63} {d9cd3349-87b4-4145-b7f1-00270becb109}
+						0 MethodCallExpression {96b6cc63-d611-45fc-9f6e-6988c5c0b48f} {e5dfbd95-aa7f-4651-8415-fd7b4b23ca63}
+							arguments TypedListOfExpression {54ee8645-bd0a-4058-8258-f16fb019bad6} {96b6cc63-d611-45fc-9f6e-6988c5c0b48f}
+							cKind Integer {6c2e8e00-34fa-4678-ac2a-594c8e184904} {96b6cc63-d611-45fc-9f6e-6988c5c0b48f}. I_0
+							callee ReferenceExpression {69889d11-9754-4bb1-8409-91131156a0ae} {96b6cc63-d611-45fc-9f6e-6988c5c0b48f}
+								memKind Integer {1f8d9396-e888-4f0d-9707-dcbe5ee032c5} {69889d11-9754-4bb1-8409-91131156a0ae}. I_0
+								prefix ReferenceExpression {67af7cff-cdbf-4449-8de1-1391e6973753} {69889d11-9754-4bb1-8409-91131156a0ae}
+									memKind Integer {64de2113-c853-47a6-9bd0-cd954cc317a8} {67af7cff-cdbf-4449-8de1-1391e6973753}. I_0
+									ref OOReference {c333610e-1873-4cb0-a441-45a4aadff1b4} {67af7cff-cdbf-4449-8de1-1391e6973753}. S_{98f8c820-f1a9-43ba-8fde-a96cf9c69613}:connection
+									typeArguments TypedListOfExpression {659dd2cf-ffbe-41eb-bf44-0747a69699d5} {67af7cff-cdbf-4449-8de1-1391e6973753}
+								ref OOReference {bf13cfad-326c-4278-ae33-19c4dd48dd01} {69889d11-9754-4bb1-8409-91131156a0ae}. S_____NULL____:getResponseCode
+								typeArguments TypedListOfExpression {ea631eda-d625-461e-a114-3600acf057b8} {69889d11-9754-4bb1-8409-91131156a0ae}
+					cKind Integer {c115d002-c624-4d55-b1ec-dba5f2fdeeef} {d9cd3349-87b4-4145-b7f1-00270becb109}. I_0
+					callee ReferenceExpression {54bead87-b742-4b30-b109-b84faf966538} {d9cd3349-87b4-4145-b7f1-00270becb109}
+						memKind Integer {450ea9cb-5d3a-4c55-a5b1-2dbbb8e3b8d9} {54bead87-b742-4b30-b109-b84faf966538}. I_0
+						ref OOReference {0592ad82-7b9f-47b1-8ff9-7a367251cfe2} {54bead87-b742-4b30-b109-b84faf966538}. S_____NULL____:httpResponse
+						typeArguments TypedListOfExpression {d2baf430-9230-473e-9460-622f3ad36a1a} {54bead87-b742-4b30-b109-b84faf966538}
 	memberInitializers TypedListOfMemberInitializer {6f72a6de-e149-4f16-86d0-553ed223a28c} {41473d67-5954-4c22-ae9e-159610c7bfcd}
 	metaCalls TypedListOfExpression {052f993f-9534-4cc4-9979-9d9d6114ac45} {41473d67-5954-4c22-ae9e-159610c7bfcd}
 	modifiers Modifier {0f021430-1335-401a-94c5-b31e148f5d60} {41473d67-5954-4c22-ae9e-159610c7bfcd}. I_2
