@@ -11,7 +11,7 @@
 	metaCalls TypedListOfExpression {8bd7007f-5ec4-40d5-951b-44252742fa10} {4b690622-ef84-4506-8bfb-52ed37ae9b79}
 	methods TypedListOfMethod {28aac16f-f61b-4133-ba11-837bc1e398e4} {4b690622-ef84-4506-8bfb-52ed37ae9b79}
 		0 persistencenewunit {d4770308-4869-446b-87ad-4a4bece0c5b6} {28aac16f-f61b-4133-ba11-837bc1e398e4}. S_F/e3_new {d4770308-4869-446b-87ad-4a4bece0c5b6}
-		1 persistencenewunit {4b662cbb-af61-4137-b512-9953eefa56ff} {28aac16f-f61b-4133-ba11-837bc1e398e4}. S_F/f {4b662cbb-af61-4137-b512-9953eefa56ff}
+		1 persistencenewunit {41473d67-5954-4c22-ae9e-159610c7bfcd} {28aac16f-f61b-4133-ba11-837bc1e398e4}. S_F/getHttpResponseResult {41473d67-5954-4c22-ae9e-159610c7bfcd}
 		2 persistencenewunit {c8c1416d-f43c-4d3e-a573-ad9ea662ced5} {28aac16f-f61b-4133-ba11-837bc1e398e4}. S_F/g {c8c1416d-f43c-4d3e-a573-ad9ea662ced5}
 	modifiers Modifier {a57e7346-2565-45ba-808f-61b5f37b0a53} {4b690622-ef84-4506-8bfb-52ed37ae9b79}. I_0
 	name NameText {fab264e4-597a-45d4-9160-ed0793f75a7d} {4b690622-ef84-4506-8bfb-52ed37ae9b79}. S_F

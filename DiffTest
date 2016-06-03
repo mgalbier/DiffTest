@@ -11,6 +11,6 @@ DiffTest Project {df21708c-d21e-4576-9eb0-bbfc7540473a} {00000000-0000-0000-0000
 	methods TypedListOfMethod {0cafcb79-d041-4b81-aa97-aa6727f81ec8} {df21708c-d21e-4576-9eb0-bbfc7540473a}
 	modifiers Modifier {608732e2-7506-4ca6-9d59-cef494994cd8} {df21708c-d21e-4576-9eb0-bbfc7540473a}. I_0
 	modules TypedListOfModule {f9962ca0-9c45-4210-b2b0-a45e6fd02b4a} {df21708c-d21e-4576-9eb0-bbfc7540473a}
-	name NameText {00f97a63-d90c-4681-aa0a-8595cbba5f9b} {df21708c-d21e-4576-9eb0-bbfc7540473a}. S_DiffTest
+	name NameText {00f97a63-d90c-4681-aa0a-8595cbba5f9b} {df21708c-d21e-4576-9eb0-bbfc7540473a}. S_DiffSTests
 	projects TypedListOfProject {c8da5a4f-10fa-4738-9328-85676356f070} {df21708c-d21e-4576-9eb0-bbfc7540473a}
 	subDeclarations TypedListOfDeclaration {f35d747b-f71a-40cc-ad24-5f3a1ef1dd48} {df21708c-d21e-4576-9eb0-bbfc7540473a}
