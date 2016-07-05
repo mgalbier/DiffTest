@@ -1,0 +1,15 @@
+0 Method {379a094a-cda4-4328-beda-5ca9469abd0a} {e3f9e1c0-7b4a-49ab-8f63-3d27e9c291ba}
+	_ext_Position_x Integer {4f7421be-c300-4576-89a0-b33b78345f0d} {379a094a-cda4-4328-beda-5ca9469abd0a}. I_0
+	_ext_Position_y Integer {48665842-d974-443f-8c68-1ddaf6f0d2e3} {379a094a-cda4-4328-beda-5ca9469abd0a}. I_0
+	annotations StatementItemList {598c0eb8-8bfc-448e-aafa-4c9c9de1f66e} {379a094a-cda4-4328-beda-5ca9469abd0a}
+	arguments TypedListOfFormalArgument {6fafc116-2c2f-45ed-a13a-26e1419e569e} {379a094a-cda4-4328-beda-5ca9469abd0a}
+	items StatementItemList {d48b89ed-ed74-436f-b223-caef22057235} {379a094a-cda4-4328-beda-5ca9469abd0a}
+	memberInitializers TypedListOfMemberInitializer {bd40f4e0-36e2-48d4-98eb-119349bd57b4} {379a094a-cda4-4328-beda-5ca9469abd0a}
+	metaCalls TypedListOfExpression {c2e2a044-d4cc-47e2-9ae1-a1a53916b0b7} {379a094a-cda4-4328-beda-5ca9469abd0a}
+	modifiers Modifier {6375eb1d-a4db-4564-bfb2-34970033fadd} {379a094a-cda4-4328-beda-5ca9469abd0a}. I_0
+	mthKind Integer {3ca6b810-4cf8-4571-9e30-db39f1c70cba} {379a094a-cda4-4328-beda-5ca9469abd0a}. I_0
+	name NameText {13312af2-d62f-4f6c-9d98-9482e27a9da2} {379a094a-cda4-4328-beda-5ca9469abd0a}. S_g()
+	results TypedListOfFormalResult {c2b9dd0d-f228-4120-b842-e664879dc850} {379a094a-cda4-4328-beda-5ca9469abd0a}
+	subDeclarations TypedListOfDeclaration {12ae2c88-b1ed-4f89-87ae-e930365c3d00} {379a094a-cda4-4328-beda-5ca9469abd0a}
+	throws TypedListOfExpression {47ae813c-c38a-4d5b-9fa5-19b5d6e04681} {379a094a-cda4-4328-beda-5ca9469abd0a}
+	typeArguments TypedListOfFormalTypeArgument {0ee4bf8e-ac43-40e4-a74b-bdf0d62267b5} {379a094a-cda4-4328-beda-5ca9469abd0a}
