@@ -11,6 +11,7 @@
 	metaCalls TypedListOfExpression {a5baf90c-3056-4c39-958c-daf5e1c2d0ae} {e4b8cece-7e5d-4e90-b3bb-4e85b42a864e}
 	methods TypedListOfMethod {1c739ed0-f6e2-4eca-b7c7-b9827c843700} {e4b8cece-7e5d-4e90-b3bb-4e85b42a864e}
 		0 persistencenewunit {4d8bec8b-0ef0-4b54-99dc-6e46fbde588f} {1c739ed0-f6e2-4eca-b7c7-b9827c843700}. S_B_Class/b_new {4d8bec8b-0ef0-4b54-99dc-6e46fbde588f}
+		1 persistencenewunit {8d4122ac-9279-4f0a-8eaa-17d14f560cf9} {1c739ed0-f6e2-4eca-b7c7-b9827c843700}. S_B_Class/foo {8d4122ac-9279-4f0a-8eaa-17d14f560cf9}
 	modifiers Modifier {fc083063-faf8-4684-a1ab-6107ac8db174} {e4b8cece-7e5d-4e90-b3bb-4e85b42a864e}. I_0
 	name NameText {07061812-ecca-4340-b6c7-da099e2a619c} {e4b8cece-7e5d-4e90-b3bb-4e85b42a864e}. S_B_Class
 	subDeclarations TypedListOfDeclaration {73cd4648-b902-411a-8e6a-28ecc5aa6fe3} {e4b8cece-7e5d-4e90-b3bb-4e85b42a864e}
